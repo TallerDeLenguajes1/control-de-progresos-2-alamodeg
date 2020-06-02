@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/6hDf+LsdIAmiV1WPv5qQH1O/6gzWwusd7hW0DBZ8g/S8RP5wE2vFQXmT0/UVMQaVKl/gdg7o34dcIHcx/JAwA==",
+  "success": true,
+  "projectFilePath": "D:\\Nueva carpeta\\control-de-progresos-2-alamodeg\\Juego_Rol\\Entidades\\Entidades.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Caja\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

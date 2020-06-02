@@ -1,0 +1,13 @@
+D:\Nueva carpeta\control-de-progresos-2-alamodeg\Juego_Rol\Juego_Rol\bin\Debug\netcoreapp3.1\Juego_Rol.exe
+D:\Nueva carpeta\control-de-progresos-2-alamodeg\Juego_Rol\Juego_Rol\bin\Debug\netcoreapp3.1\Juego_Rol.deps.json
+D:\Nueva carpeta\control-de-progresos-2-alamodeg\Juego_Rol\Juego_Rol\bin\Debug\netcoreapp3.1\Juego_Rol.runtimeconfig.json
+D:\Nueva carpeta\control-de-progresos-2-alamodeg\Juego_Rol\Juego_Rol\bin\Debug\netcoreapp3.1\Juego_Rol.runtimeconfig.dev.json
+D:\Nueva carpeta\control-de-progresos-2-alamodeg\Juego_Rol\Juego_Rol\bin\Debug\netcoreapp3.1\Juego_Rol.dll
+D:\Nueva carpeta\control-de-progresos-2-alamodeg\Juego_Rol\Juego_Rol\bin\Debug\netcoreapp3.1\Juego_Rol.pdb
+D:\Nueva carpeta\control-de-progresos-2-alamodeg\Juego_Rol\Juego_Rol\obj\Debug\netcoreapp3.1\Juego_Rol.csprojAssemblyReference.cache
+D:\Nueva carpeta\control-de-progresos-2-alamodeg\Juego_Rol\Juego_Rol\obj\Debug\netcoreapp3.1\Juego_Rol.AssemblyInfoInputs.cache
+D:\Nueva carpeta\control-de-progresos-2-alamodeg\Juego_Rol\Juego_Rol\obj\Debug\netcoreapp3.1\Juego_Rol.AssemblyInfo.cs
+D:\Nueva carpeta\control-de-progresos-2-alamodeg\Juego_Rol\Juego_Rol\obj\Debug\netcoreapp3.1\Juego_Rol.csproj.CoreCompileInputs.cache
+D:\Nueva carpeta\control-de-progresos-2-alamodeg\Juego_Rol\Juego_Rol\obj\Debug\netcoreapp3.1\Juego_Rol.dll
+D:\Nueva carpeta\control-de-progresos-2-alamodeg\Juego_Rol\Juego_Rol\obj\Debug\netcoreapp3.1\Juego_Rol.pdb
+D:\Nueva carpeta\control-de-progresos-2-alamodeg\Juego_Rol\Juego_Rol\obj\Debug\netcoreapp3.1\Juego_Rol.genruntimeconfig.cache

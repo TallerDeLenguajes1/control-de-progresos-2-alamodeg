@@ -2,11 +2,12 @@
 
 namespace Juego_Rol
 {
-    class Program
+    class Juego
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var Random = new Random();
+            Console.WriteLine("%d"+Random);
         }
     }
 }
