@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Entidades;
+using System;
 
 namespace Juego_Rol
 {
@@ -6,6 +7,7 @@ namespace Juego_Rol
     {
         static void Main(string[] args)
         {
+            Personaje PJ = new Personaje();
             var Random = new Random();
             Console.WriteLine("%d"+Random);
         }

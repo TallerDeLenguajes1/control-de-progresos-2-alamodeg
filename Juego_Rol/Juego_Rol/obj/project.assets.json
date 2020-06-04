@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "Entidades/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Entidades.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Entidades.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Entidades/1.0.0": {
+      "type": "project",
+      "path": "../Entidades/Entidades.csproj",
+      "msbuildProject": "../Entidades/Entidades.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "Entidades >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Caja\\.nuget\\packages\\": {}
@@ -32,7 +51,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Nueva carpeta\\control-de-progresos-2-alamodeg\\Juego_Rol\\Entidades\\Entidades.csproj": {
+              "projectPath": "D:\\Nueva carpeta\\control-de-progresos-2-alamodeg\\Juego_Rol\\Entidades\\Entidades.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
