@@ -7,9 +7,14 @@ namespace Juego_Rol
     {
         static void Main(string[] args)
         {
-            Personaje PJ = new Personaje();
-            var Random = new Random();
-            Console.WriteLine("%d"+Random);
+            string[] nombres = { "Jhon Salchichon", "Josefo", "Lady Sonsa" };
+            string[] apodos = { "Degolador", "El Destructor", "El Elegido" };
+
+            Personaje Mipersonaje = new Personaje(); //Instanciacion del objeto pj
+            Random aleatorio = new Random();
+
+            Mipersonaje.Nombre = aleatorio.Next();
+            Mipersonaje.Armadura = 10;
         }
     }
 }
